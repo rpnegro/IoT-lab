@@ -1,0 +1,3 @@
+ifconfig 
+
+ip -6 address show
